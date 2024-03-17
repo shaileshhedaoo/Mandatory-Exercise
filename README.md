@@ -1,0 +1,2 @@
+# Mandatory-Exercise
+Student Management
